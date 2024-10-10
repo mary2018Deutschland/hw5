@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+  font-weight: 700;
+  background-color: black;
+  color: rgba(30, 215, 96, 1);
+}
